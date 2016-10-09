@@ -1,0 +1,12 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+
+public static void main (String args[])
+{
+int a=10,c;
+float b=5.23f;
+c=(int)b+a;
+System.out.println(c);
+}
